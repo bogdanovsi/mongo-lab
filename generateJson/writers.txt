@@ -1,0 +1,11 @@
+[
+  '{{repeat(8)}}',
+  {
+    pasport_number: '{{integer(0, 9999)}} {{integer(0, 999999)}}',
+    surname: '{{surname()}}',
+    name: '{{firstName()}}',
+    patronymic: '{{surname()}}',
+    Address: '{{street()}}, {{city()}}, {{state()}}, {{integer(100, 10000)}}',
+    phone: '{{phone()}}'
+  }
+]

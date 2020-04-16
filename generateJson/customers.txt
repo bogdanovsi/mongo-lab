@@ -1,0 +1,9 @@
+[
+  '{{repeat(8)}}',
+  {
+    customer_Name: '{{surname()}} {{firstName()}}',  
+    address: '{{street()}}, {{city()}}, {{state()}}, {{integer(100, 10000)}}',
+    phone_number: '+7 {{phone()}}',
+    contract_person: '{{objectId()}}'
+  }
+]

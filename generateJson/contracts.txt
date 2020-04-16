@@ -1,0 +1,11 @@
+[
+  '{{repeat(8)}}',
+  {
+    writer_id: '{{objectId()}}',
+    number_contract: '{{integer(0, 999)}}',
+    created: '{{date()}}',
+    expiration_date: '{{date()}}',
+    annulment: '{{bool()}}',
+    annulment_date: '{{date()}}'
+  }
+]

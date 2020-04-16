@@ -1,0 +1,50 @@
+[
+    {
+      "customer_Name": "Hensley Hazel",
+      "address": "Vanderveer Street, Ivanhoe, Texas, 8954",
+      "phone_number": "+7 (931) 429-3072",
+      "contract_person": "5e989147b2f6daadb7c1821a"
+    },
+    {
+      "customer_Name": "Jordan Dina",
+      "address": "Rutledge Street, Fairmount, Delaware, 1821",
+      "phone_number": "+7 (912) 469-2502",
+      "contract_person": "5e989147d0efec1cabe7e191"
+    },
+    {
+      "customer_Name": "Shepherd Rosa",
+      "address": "Oriental Boulevard, Saddlebrooke, Virgin Islands, 2375",
+      "phone_number": "+7 (852) 543-3212",
+      "contract_person": "5e9891473c37b27c80a6e822"
+    },
+    {
+      "customer_Name": "Boyle Queen",
+      "address": "Ralph Avenue, Interlochen, California, 1416",
+      "phone_number": "+7 (881) 587-3838",
+      "contract_person": "5e9891476c9163cbc8dad2d4"
+    },
+    {
+      "customer_Name": "Hughes Jewell",
+      "address": "Church Lane, Orin, Wyoming, 7383",
+      "phone_number": "+7 (837) 583-2466",
+      "contract_person": "5e98914749b66f9401630f9f"
+    },
+    {
+      "customer_Name": "Boyer Davidson",
+      "address": "Hicks Street, Echo, Georgia, 3991",
+      "phone_number": "+7 (933) 483-3165",
+      "contract_person": "5e9891479674ae4e17125b53"
+    },
+    {
+      "customer_Name": "Gilbert Brady",
+      "address": "Gunnison Court, Blende, Oregon, 5242",
+      "phone_number": "+7 (978) 489-3119",
+      "contract_person": "5e98914791300ee6db6784b6"
+    },
+    {
+      "customer_Name": "Mccall Lizzie",
+      "address": "Varet Street, Rushford, Oklahoma, 6382",
+      "phone_number": "+7 (884) 546-3102",
+      "contract_person": "5e98914741def3de43070cef"
+    }
+  ]

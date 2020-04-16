@@ -1,0 +1,82 @@
+[
+    {
+      "writer_id": "5e9891359ec2c85f1e0e7104",
+      "book_cipher": 426,
+      "name": "magna consectetur ullamco",
+      "circulation": 3861,
+      "publication_date": "Sun Dec 10 1972 07:35:36 GMT+0300 (Москва, стандартное время)",
+      "cost_price": "$2,510.22",
+      "selling_price": "$3,446.84",
+      "fee": "$863.29"
+    },
+    {
+      "writer_id": "5e98913577fa28f99f010da9",
+      "book_cipher": 269,
+      "name": "dolor est labore",
+      "circulation": 3760,
+      "publication_date": "Sat Jul 30 1994 08:30:31 GMT+0400 (Москва, летнее время)",
+      "cost_price": "$3,854.29",
+      "selling_price": "$371.55",
+      "fee": "$3,211.96"
+    },
+    {
+      "writer_id": "5e989135e7826db82f53a6b0",
+      "book_cipher": 63,
+      "name": "occaecat consectetur exercitation",
+      "circulation": 1148,
+      "publication_date": "Tue May 01 1973 11:25:48 GMT+0300 (Москва, стандартное время)",
+      "cost_price": "$471.65",
+      "selling_price": "$1,472.19",
+      "fee": "$357.14"
+    },
+    {
+      "writer_id": "5e989135943432543cc8405c",
+      "book_cipher": 287,
+      "name": "pariatur do commodo",
+      "circulation": 119,
+      "publication_date": "Sun Apr 30 1995 19:41:45 GMT+0400 (Москва, летнее время)",
+      "cost_price": "$942.73",
+      "selling_price": "$765.31",
+      "fee": "$1,557.38"
+    },
+    {
+      "writer_id": "5e989135207dd7a79896b0f0",
+      "book_cipher": 353,
+      "name": "velit veniam nostrud",
+      "circulation": 9518,
+      "publication_date": "Sun May 17 1992 03:03:06 GMT+0400 (Москва, летнее время)",
+      "cost_price": "$3,146.24",
+      "selling_price": "$1,438.09",
+      "fee": "$2,096.79"
+    },
+    {
+      "writer_id": "5e9891356ad7bde9f60f114c",
+      "book_cipher": 303,
+      "name": "Lorem officia tempor",
+      "circulation": 5548,
+      "publication_date": "Fri Dec 07 1990 07:53:23 GMT+0300 (Москва, стандартное время)",
+      "cost_price": "$1,619.42",
+      "selling_price": "$371.97",
+      "fee": "$438.78"
+    },
+    {
+      "writer_id": "5e989135ab25a413cb9b4ece",
+      "book_cipher": 15,
+      "name": "culpa ipsum commodo",
+      "circulation": 9815,
+      "publication_date": "Sat Jul 27 2019 12:05:28 GMT+0300 (Москва, стандартное время)",
+      "cost_price": "$2,342.48",
+      "selling_price": "$428.48",
+      "fee": "$1,985.62"
+    },
+    {
+      "writer_id": "5e98913592cff592b4052893",
+      "book_cipher": 940,
+      "name": "nostrud irure ipsum",
+      "circulation": 7283,
+      "publication_date": "Tue Nov 04 1975 03:03:50 GMT+0300 (Москва, стандартное время)",
+      "cost_price": "$3,879.23",
+      "selling_price": "$2,808.60",
+      "fee": "$3,931.79"
+    }
+  ]

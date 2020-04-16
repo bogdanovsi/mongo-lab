@@ -1,0 +1,66 @@
+[
+    {
+      "writer_id": "5e98913c83880090bc20d938",
+      "number_contract": 320,
+      "created": "Wed Jan 29 2014 11:07:06 GMT+0400 (Москва, стандартное время)",
+      "expiration_date": "Wed Dec 12 1990 10:32:26 GMT+0300 (Москва, стандартное время)",
+      "annulment": true,
+      "annulment_date": "Mon Apr 18 1994 11:26:50 GMT+0400 (Москва, летнее время)"
+    },
+    {
+      "writer_id": "5e98913cae2261899f41f773",
+      "number_contract": 885,
+      "created": "Mon Sep 13 2004 16:08:05 GMT+0400 (Москва, летнее время)",
+      "expiration_date": "Fri Sep 30 1988 17:06:37 GMT+0300 (Москва, стандартное время)",
+      "annulment": true,
+      "annulment_date": "Tue May 15 1984 02:34:53 GMT+0400 (Москва, летнее время)"
+    },
+    {
+      "writer_id": "5e98913c2de4f97ea8cc84e9",
+      "number_contract": 220,
+      "created": "Wed Feb 06 2013 10:24:51 GMT+0400 (Москва, стандартное время)",
+      "expiration_date": "Sat Dec 26 1987 13:39:22 GMT+0300 (Москва, стандартное время)",
+      "annulment": true,
+      "annulment_date": "Wed Jan 15 2020 20:57:54 GMT+0300 (Москва, стандартное время)"
+    },
+    {
+      "writer_id": "5e98913c2fa82e7f2cf02b77",
+      "number_contract": 596,
+      "created": "Thu Nov 01 2007 04:13:35 GMT+0300 (Москва, стандартное время)",
+      "expiration_date": "Sat Jun 07 2008 00:49:55 GMT+0400 (Москва, летнее время)",
+      "annulment": false,
+      "annulment_date": "Mon Jul 30 2018 05:05:57 GMT+0300 (Москва, стандартное время)"
+    },
+    {
+      "writer_id": "5e98913c717c8483aa3cbffe",
+      "number_contract": 906,
+      "created": "Sat Jul 15 2006 21:43:34 GMT+0400 (Москва, летнее время)",
+      "expiration_date": "Wed Feb 06 2019 02:54:06 GMT+0300 (Москва, стандартное время)",
+      "annulment": true,
+      "annulment_date": "Tue Jan 12 2016 12:39:35 GMT+0300 (Москва, стандартное время)"
+    },
+    {
+      "writer_id": "5e98913c383ab28d014a6107",
+      "number_contract": 581,
+      "created": "Fri Nov 16 1979 14:05:55 GMT+0300 (Москва, стандартное время)",
+      "expiration_date": "Thu Aug 24 1995 02:34:10 GMT+0400 (Москва, летнее время)",
+      "annulment": true,
+      "annulment_date": "Mon Jan 24 1977 16:36:52 GMT+0300 (Москва, стандартное время)"
+    },
+    {
+      "writer_id": "5e98913cd627f03fc739a880",
+      "number_contract": 804,
+      "created": "Mon Mar 02 1970 00:35:24 GMT+0300 (Москва, стандартное время)",
+      "expiration_date": "Tue Jan 27 1987 19:35:39 GMT+0300 (Москва, стандартное время)",
+      "annulment": true,
+      "annulment_date": "Mon Oct 06 2008 20:50:47 GMT+0400 (Москва, летнее время)"
+    },
+    {
+      "writer_id": "5e98913c73b56e7173c23f75",
+      "number_contract": 20,
+      "created": "Tue Oct 29 2013 16:17:41 GMT+0400 (Москва, стандартное время)",
+      "expiration_date": "Sat Mar 31 2012 17:47:46 GMT+0400 (Москва, стандартное время)",
+      "annulment": true,
+      "annulment_date": "Mon Jan 11 1982 15:42:11 GMT+0300 (Москва, стандартное время)"
+    }
+  ]

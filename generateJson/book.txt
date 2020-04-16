@@ -1,0 +1,13 @@
+[
+  '{{repeat(8)}}',
+  {
+    writer_id: '{{objectId()}}',
+    book_cipher: '{{integer(0, 999)}}',
+    name: '{{lorem(3, "words")}}',
+    circulation: '{{integer(0, 10000)}}',   
+    publication_date: '{{date()}}',
+    cost_price: '{{floating(100, 4000, 2, "$0,0.00")}}',
+    selling_price: '{{floating(100, 4000, 2, "$0,0.00")}}',
+    fee: '{{floating(100, 4000, 2, "$0,0.00")}}'
+  }
+]

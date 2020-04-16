@@ -1,0 +1,10 @@
+[
+  '{{repeat(8)}}',
+  {
+    book_id: '{{objectId()}}',
+    customer_id: '{{objectId()}}',  
+    receipt_date: '{{date()}}',
+    completion_date: '{{date()}}',
+    ordered_book_copies_number: '{{integer(400, 1000)}}'
+  }
+]
