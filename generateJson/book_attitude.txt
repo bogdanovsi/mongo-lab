@@ -1,0 +1,7 @@
+[
+  '{{repeat(8)}}',
+  {
+    writer_id: '{{objectId()}}',
+    book_id: '{{objectId()}}'
+  }
+]
